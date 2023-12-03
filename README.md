@@ -1,17 +1,17 @@
 #### **Dualshock 4 Buttons**
-![image](./src/images/image1.png)
+![image](./src/images/images1.png)
 
 #### **Dualshock 4 Sticks**
-![image](./src/images/image2.png)
+![image](./src/images/images2.png)
 
 #### **Button 100% Pressed**
-![image](./src/images/image3.png)
+![image](./src/images/images3.png)
 
 #### **Button 16% Pressed**
-![image](./src/images/image4.png)
+![image](./src/images/images4.png)
 
 #### **Dualshock 4 Sticks Testing**
-![image](./src/images/image5.png)
+![image](./src/images/images5.png)
 
 #### **Dualshock 4 Stick Click Test**
-![image](./src/images/image6.png)
+![image](./src/images/images6.png)
